@@ -40,7 +40,7 @@ The dataset includes monthly budget and actual expenses for 2023, segmented by:
 
 ## 📸 Screenshots
 
-![Dashboard Overview](./dashboard.jpg)
+![Dashboard Overview](./dashboard.JPG)
 
 ## 📂 Files Included
 
