@@ -40,13 +40,13 @@ The dataset includes monthly budget and actual expenses for 2023, segmented by:
 
 ## 📸 Screenshots
 
-![Dashboard Overview](./dashboard.png)
+![Dashboard Overview](./dashboard.jpeg)
 
 ## 📂 Files Included
 
 - `Financial analysis_Data Set.xlsx`: Source Excel file
 - `financial-budget-vs-actual.pbix`: Power BI dashboard file
-- `dashboard.png`: Screenshot of final dashboard
+- `dashboard.jpeg`: Screenshot of final dashboard
 
 ## 🤝 Contribution
 
